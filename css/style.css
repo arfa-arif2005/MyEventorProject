@@ -1,0 +1,39 @@
+.carousel-caption {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    left:0;
+    width: 50%;
+    top: 15%;
+    
+    padding-right: 20%;
+    
+}
+.carousel-caption p{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.auto{
+    text-align: center;
+}
+.ata{
+    text-align: center;
+    margin-left:300px;
+    margin-right: 300px;
+}
+ .footer{
+    background-color: black;
+ }
+.gallery{
+    padding: 50px 0;
+}
+ .gallery img{
+    width: 350px;
+    height: 200px;
+}
+span{
+    font-family:cursive;
+}
+.amna{
+    text-align: center;
+}
